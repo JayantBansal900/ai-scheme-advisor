@@ -1,0 +1,10 @@
+[
+  {"age": 20, "income": 200000, "occupation": "student", "scheme": "National Scholarship Scheme"},
+  {"age": 22, "income": 150000, "occupation": "student", "scheme": "National Scholarship Scheme"},
+  {"age": 30, "income": 300000, "occupation": "farmer", "scheme": "PM Kisan Yojana"},
+  {"age": 45, "income": 250000, "occupation": "farmer", "scheme": "PM Kisan Yojana"},
+  {"age": 28, "income": 500000, "occupation": "entrepreneur", "scheme": "Startup India"},
+  {"age": 35, "income": 600000, "occupation": "entrepreneur", "scheme": "Startup India"},
+  {"age": 40, "income": 200000, "occupation": "labour", "scheme": "PM Awas Yojana"},
+  {"age": 50, "income": 180000, "occupation": "labour", "scheme": "PM Awas Yojana"}
+]
