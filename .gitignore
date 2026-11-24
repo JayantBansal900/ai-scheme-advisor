@@ -2,3 +2,5 @@ node_modules/
 venv/
 __pycache__/
 .env
+# Kaggle API credentials: never commit
+kaggle.json
