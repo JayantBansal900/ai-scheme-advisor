@@ -1,4 +1,5 @@
 # 🚀 AI Government Scheme Advisor
+[![CI](https://github.com/JayantBansal900/ai-scheme-advisor/actions/workflows/ci.yml/badge.svg)](https://github.com/JayantBansal900/ai-scheme-advisor/actions/workflows/ci.yml)
 
 An AI-powered Government Scheme Recommendation System that helps users discover the most relevant central and state schemes using Machine Learning and Retrieval-Augmented Generation (RAG).
 
